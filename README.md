@@ -1,2 +1,2 @@
 # Ch06_Gestion_de_la_Memoire
-Chapitre 1 : Gestion de la mémoire
+Chapitre 6 : Gestion de la mémoire
